@@ -4,7 +4,7 @@
 Making a single logging module to avoid code duplication across python projects.
 
 ## How do I get set up? ###
-`python -m pip install git+ssh://git@bitbucket.org/offsim/proper_python_logger.git`
+`python -m pip install git+ssh://git@github.com:oscsupport/osc_ppl.git`                                 
 
 ### In some script...
 ```python
